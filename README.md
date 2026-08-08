@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
