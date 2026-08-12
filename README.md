@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0094-binary-tree-inorder-traversal) |
 ## Depth-First Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0050-powx-n) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
