@@ -65,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
