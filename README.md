@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0412-fizz-buzz) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
