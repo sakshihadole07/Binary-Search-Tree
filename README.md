@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0700-search-in-a-binary-search-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -132,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
