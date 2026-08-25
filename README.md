@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
+| [1480-running-sum-of-1d-array](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1920-build-array-from-permutation](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
