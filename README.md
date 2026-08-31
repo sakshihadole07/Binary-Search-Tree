@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1672-richest-customer-wealth) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
