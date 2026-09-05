@@ -16,7 +16,6 @@
 class Solution {
     public boolean isValidBST(TreeNode root) {
         return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
-        
     }
     private boolean validate(TreeNode node, long min, long max){
         if(node==null){
